@@ -1,2 +1,6 @@
 "Creo un archivo en la nueva rama" 
+<<<<<<< HEAD
 "Modifiacndo el archivo en la rama principal" 
+=======
+"Modificar el archivo en la Nueva rama" 
+>>>>>>> Rama-Sergio
